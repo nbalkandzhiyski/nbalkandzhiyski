@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nbalkandzhiyski)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://gh-trophy.cdnsoft.net/?username=nbalkandzhiyski&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
 
