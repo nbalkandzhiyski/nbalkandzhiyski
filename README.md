@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 [![trophy](https://gh-trophy.cdnsoft.net/?username=nbalkandzhiyski&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Nikolay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nbalkandzhiyski&theme=dark)](https://git.io/streak-stats)
 
