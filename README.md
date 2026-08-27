@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![trophy](https://gh-trophy.cdnsoft.net/?username=nbalkandzhiyski&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Profile Summary](https://github-readme-stats-git-master-rstacruz.vercel.app/api?username=nbalkandzhiyski&show_icons=true&theme=dark)
+[![Nikolay's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=nbalkandzhiyski&show_icons=true&theme=dark)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
